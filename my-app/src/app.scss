@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+}
+
+$Colorerosso: red;
+
+h2, h3{
+    color: $Colorerosso;
+}
